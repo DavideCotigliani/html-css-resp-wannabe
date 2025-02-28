@@ -131,6 +131,8 @@ img {
 .container{
    max-width: 100%;
 }
+}
+
 @media screen and (max-width:480px) {
     .why-us{
     background-color: black ;
@@ -149,4 +151,10 @@ img {
     .steps{
         margin-bottom: 0px;
     }
+    }
+
+    @media screen and (min-width:768px) and (max-width:1160px) {
+        .container{
+            width: 100%;
+        }
     }
