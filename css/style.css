@@ -134,5 +134,10 @@ img {
     padding: 0 20px;
     margin-top: 50px;
 }
-
+.steps{
+    margin: 0 auto;
+    width: 1140px;
+    background-color: #eebbc3;
 }
+}
+
